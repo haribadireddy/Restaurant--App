@@ -1,0 +1,35 @@
+.header-container {
+  display: flex;
+  flex-direction: column;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-heading {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 18px;
+}
+.order-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-weight: 500;
+  padding-right: 15px;
+}
+.icon {
+  margin-right: 20px;
+  font-size: 20px;
+}
+.line {
+  color: gray;
+  width: 100%;
+}
